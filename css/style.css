@@ -1,0 +1,17 @@
+/* image filter */
+.filter {
+    filter: brightness(50%);
+    height: 70vh;
+    object-fit: cover;
+}
+
+.text-size {
+    font-size: 5vw;
+}
+
+@media screen and (max-width: 576px) {
+    .filter {
+        height: 50vh;
+    }
+
+}
