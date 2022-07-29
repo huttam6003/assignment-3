@@ -20,7 +20,7 @@
     }
 
     .hide {
-        visibility: hidden;
+        display: none;
     }
 }
 
@@ -31,6 +31,6 @@
     }
 
     .hide {
-        visibility: hidden;
+        display: none;
     }
 }
